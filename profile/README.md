@@ -1,6 +1,6 @@
-## Hi there 👋
+This organization is maintained by [ITMO University, Software Engineering](https://se.ifmo.ru/) students.
 
-This organization is maintained by [ITMO University, Software Engineering](https://se.ifmo.ru/) students. Here you can find our open source projects.
+![image](https://github.com/user-attachments/assets/05e65aff-eef9-43f8-a015-a4af3a9d4f39)
 
 ## Projects
 
