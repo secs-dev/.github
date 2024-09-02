@@ -5,3 +5,4 @@ This organization is maintained by [ITMO University, Software Engineering](https
 ## Projects
 
 - [Xv6 Fork for an OS course](https://github.com/secs-dev/xv6-riscv)
+- [ITMO Chan](https://github.com/secs-dev/itmo-chan)
