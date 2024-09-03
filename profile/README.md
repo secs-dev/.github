@@ -1,3 +1,3 @@
 This organization is maintained by [ITMO University, Software Engineering](https://se.ifmo.ru/) students, but is not affiliated with the unveristy or faculty.
 
-![image](https://github.com/user-attachments/assets/05e65aff-eef9-43f8-a015-a4af3a9d4f39)
+<img src="https://se.ifmo.ru/o/helios-theme/images/itmo-cs-logo.png" style="background-color:#101f27;" />
